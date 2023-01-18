@@ -1,12 +1,17 @@
 table {
-  border: solid rgb(254, 120, 120);
   background-color: transparent;
-  width: 80%;
+  width: 90%;
+  height: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 2%;
+  position: absolute;
+  align-items: center;
+  border-spacing: 90px;
 }
 th {
   border: solid rgb(21, 21, 18);
-  color: rgb(192, 73, 0);
-  background-color: rgb(72, 227, 72);
+  color: rgb(9, 9, 9);
   font-weight: bolder;
 }
 td {
