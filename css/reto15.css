@@ -1,0 +1,6 @@
+ol ol {
+  list-style-type: upper-roman;
+}
+#abecedario {
+  list-style-type: lower-alpha;
+}
