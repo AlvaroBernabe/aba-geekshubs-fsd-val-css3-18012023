@@ -1,0 +1,17 @@
+table  {
+    border: solid black;
+    border-collapse: collapse;
+    background-color: rgb(106, 106, 245);
+    color: yellow;
+}
+
+th {
+    background-color: rgb(26, 107, 94);
+    border: solid blue;
+    padding: 2px;
+}
+td {
+    border: solid blue;
+    color: black;
+    padding: 2px;
+}
