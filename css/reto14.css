@@ -1,0 +1,28 @@
+img {
+  display: block;
+  width: 80%;
+  height: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  position: fixed;
+  left: 10%;
+}
+table {
+  border: solid black !important;
+  background-color: rgb(242, 248, 249);
+  width: 55%;
+  margin-left: auto;
+  margin-right: auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+td {
+  border: solid;
+  color: black;
+  padding: 5px;
+  width: 150px;
+  background-color: rgb(232, 232, 118);
+  text-align: center;
+}
