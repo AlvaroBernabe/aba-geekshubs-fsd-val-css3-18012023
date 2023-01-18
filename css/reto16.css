@@ -1,0 +1,20 @@
+table {
+    border: solid rgb(254, 120, 120);
+    background-color: transparent;
+    width: 80%;
+    
+}
+th {
+    border: solid rgb(21, 21, 18) ;
+    color: rgb(192, 73, 0);
+    background-color: rgb(72, 227, 72) ;
+    font-weight: bolder;
+    
+    
+}
+td {
+    border: solid rgb(37, 37, 37) ;
+    color: rgb(218, 58, 0) !important;
+    text-align: center;
+    font-weight: bolder;
+}
